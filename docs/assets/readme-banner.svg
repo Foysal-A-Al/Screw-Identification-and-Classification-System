@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="260" viewBox="0 0 1280 260" role="img" aria-labelledby="title desc">
+<title id="title">Screw Identification and Classification</title>
+<desc id="desc">Classical vision for fastener analysis. Images, videos, and an inspectable rule pipeline. Decorative fastener illustration.</desc>
+<defs><linearGradient id="bg"><stop stop-color="#101d31"/><stop offset="1" stop-color="#182740"/></linearGradient></defs>
+<rect width="1280" height="260" rx="18" fill="url(#bg)"/>
+<rect x="40" y="43" width="4" height="155" rx="2" fill="#ffc975"/>
+<g font-family="DejaVu Sans, Arial, sans-serif">
+<text x="66" y="65" fill="#ffc975" font-size="12" letter-spacing="2">COMPUTER VISION &amp; ENGINEERING</text>
+<text x="64" y="121" fill="#f5f8ff" font-size="39" font-weight="700">Screw Identification</text>
+<text x="66" y="162" fill="#c7d4e6" font-size="21">Classical vision for fastener analysis</text>
+<text x="66" y="216" fill="#8da2be" font-size="14">Image + video inputs / Shape features / Desktop interface</text>
+</g>
+<g transform="translate(930 52)" stroke-linejoin="round">
+<rect x="0" y="0" width="285" height="160" rx="15" fill="none" stroke="#314a68" stroke-dasharray="7 7"/>
+<path d="M48 61 L78 39 L107 61 L107 96 L78 117 L48 96 Z" fill="#ffc975"/>
+<path d="M66 74 L90 74 M78 62 L78 86" stroke="#182740" stroke-width="6" stroke-linecap="round"/>
+<rect x="107" y="68" width="116" height="24" rx="3" fill="#66b3ff"/>
+<path d="M120 68 L110 92 M139 68 L129 92 M158 68 L148 92 M177 68 L167 92 M196 68 L186 92 M215 68 L205 92" stroke="#182740" stroke-width="4"/>
+<path d="M223 68 L243 80 L223 92 Z" fill="#66b3ff"/>
+</g></svg>
